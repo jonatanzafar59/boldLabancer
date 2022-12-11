@@ -17,7 +17,7 @@
     "axios": "^0.18.0",
     "body-parser": "^1.18.2",
     "conf": "^6.2.0",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "pino": "^5.14.0",
     "pino-pretty": "^3.5.0",
     "prom-client": "^11.5.3",
